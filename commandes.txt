@@ -1,0 +1,176 @@
+    1  touch index.php
+    2  df =h
+    3  df -h
+    4  top
+    5  php =v
+    6  php -v
+    7  aptitude
+    8  sudo aptitude 
+    9  sudo dpkk-install php
+   10  sudo dpkg-install php
+   11  sudo dpkg install php
+   12  sudo apt 
+   13  sudo apt install php
+   14  php -v
+   15  sudo apt install apache
+   16  sudo apt install apache24
+   17  mc
+   18  sudo apt install mc
+   19  mc
+   20  cd /root
+   21  sudo /root
+   22  sudo
+   23  su
+   24  sudo mc
+   25  mc
+   26  cd /root
+   27  sudo cd
+   28  sudo mc
+   29  cd .config
+   30  cd mc
+   31  nano mc
+   32  ls
+   33  nano ini
+   34  mc
+   35  cd /var/www
+   36  sudo touch index.php
+   37  sudo mc
+   38  apachectl restart
+   39  sudo apachectl restart
+   40  mc
+   41  sudo mc
+   42  sudo apt install mysql
+   43  sudo apt install mysql-server
+   44  mysql -u root -p
+   45  df -h
+   46  ls
+   47  git
+   48  sudo apt git install
+   49  sudo apt install git
+   50  git
+   51  php =s
+   52  php -s
+   53  mc
+   54  sudo apt install codesniffer
+   55  sudo apt install php-codesniffer
+   56  phpcs
+   57  phpcs -v
+   58  phpcs --help
+   59  phpcs -V
+   60  sudo apt install php7.0-intl
+   61  sudo apt install php7.0-mysql
+   62  sudo apt install php7.0-sqlite
+   63  php =v
+   64  php -v
+   65  apachectl restart
+   66  sudo apachectl restart
+   67  sudo apt install phpmyadmin
+   68  touch index.php
+   69  git
+   70  ls
+   71  sudo mc
+   72  sudo apachectl restart
+   73  sudo mc
+   74  ls =la
+   75  ls -la
+   76  cd Do*
+   77  ls
+   78  ls =la
+   79  ls -la
+   80  chown -R miaw. dev
+   81  sudo chown -R miaw. dev
+   82  ls -la
+   83  cd dev
+   84  composer
+   85  sudo apt install composer
+   86  composer
+   87  git -V
+   88  git -v
+   89  git --version
+   90  df -h
+   91  sudo apt install phpstorm
+   92  exit
+   93  ls
+   94  cd Do*
+   95  ls
+   96  cd dev
+   97  symfony
+   98  composer
+   99  sudo curl -LsS https://symfony.com/installer -o /usr/local/bin/symfony
+  100  symfony
+  101  sudo chmod a+x /usr/local/bin/symfony 
+  102  symfony
+  103  symfony new demo
+  104  cd demo
+  105  php bin/console server:run
+  106  php =v
+  107  php -v
+  108  chmod -R g+w,o+w www
+  109  mc
+  110  sudo mc
+  111  sudo apachectl restart
+  112  mc
+  113  cd /var
+  114  chmod -R g+w www
+  115  sudo chmod -R g+w www
+  116  sudo chmod -R o+w www
+  117  sudo chmod -R i+w www
+  118  sudo chmod -R +i
+  119  mc
+  120  sudo mc
+  121  aptitude
+  122  sudo aptitude
+  123  sudo apt
+  124  sudo apt install aptitude
+  125  aptitude update
+  126  sudo aptitude update
+  127  sudo aptitude upgrade
+  128  sudo aptitude update
+  129  sudo aptitude upgrade
+  130  php -v
+  131  ls
+  132  cd Documents
+  133  ls
+  134  cd dev
+  135  php  symphony
+  136  php symfony
+  137  phpsymfony
+  138  phsymfony
+  139  whereis php
+  140  whereis symfony
+  141  php - symfony
+  142  php /usr/local/bin/symfony 
+  143* 
+  144  ls- al /usr/local/bin/symfony 
+  145  ls- a /usr/local/bin/symfony 
+  146  ls /usr/local/bin/symfony 
+  147  /usr/local/bin/symfony 
+  148  /usr/local/bin/symfony new pululu
+  149  ls
+  150  nano pululu/
+  151  ls pululu/
+  152  tree pululu/
+  153  cd pululu/
+  154  ls
+  155  ls -al 
+  156  php bin/console serveur:run
+  157  php bin/console servor:run
+  158  php bin/console server:run
+  159  ls
+  160  nano index.php
+  161  php bin/console server:run
+  162  cd ..
+  163  ls
+  164  rmdir pululu/ ibra
+  165  cp -R  pululu/ ibra
+  166  ls
+  167  rmdir pululu/
+  168  rmdir - R  pululu/
+  169  rmdir -R  pululu/
+  170  rm -R  pululu/
+  171  ls
+  172  cd ibra/
+  173  ls
+  174  php bin/console server:run
+  175  history
+  176  history > commandes.txt
